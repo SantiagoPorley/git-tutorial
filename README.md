@@ -15,6 +15,7 @@ para empezar a trabajar en un nuevo proyecto , para iniciar un repositorio y que
 Clona un repositorio remoto de manera local
 
 ## git status
+Describe el estado del repositorio en comparacion del local
 
 ## git add
 
@@ -37,3 +38,5 @@ Clona un repositorio remoto de manera local
 ## Tutorial interactivo
 
 [learngitbranching](https://learngitbranching.js.org/)
+
+git add archivo , git commit m- "mensaje", git push
