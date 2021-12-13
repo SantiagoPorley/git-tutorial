@@ -33,8 +33,10 @@ Crea un hito o punto de control con todos los cambios agregados desde el ultimo 
 Muestra el historial de commits
 
 ## git branch
+Permite desplazarse entre ramas git checkout nombre-de-la-rama asi como crear nuevas ramas git checout b- "nombre-de-la-rama"
 
 ## git push
+Publica los commits locales en un repositorio publico
 
 ## git pull
 
