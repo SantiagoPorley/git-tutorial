@@ -15,11 +15,13 @@ para empezar a trabajar en un nuevo proyecto , para iniciar un repositorio y que
 Clona un repositorio remoto de manera local
 
 ## git status
-Describe el estado del repositorio en comparacion del local
+Describe el estado del repositorio actual, cambios a agregar, a comitear y commits a pushar. especifica indormacion como branch actual
 
 ## git add
+agrega los cambios realizadoes een archivos/directorios del proyecto para formar parte del proximo commit
 
 ## git commit
+Crea un hito o punto de control con todos los cambios agregados desde el ultimo commit, permite agregar un mensaje descriptivo
 
 ### good commits messages
 
