@@ -42,8 +42,11 @@ Publica los commits locales en un repositorio publico
 Actualiza el repositorio actual con los commits realizados en el main
 
 ## git merge
+Permite mezclar o unir la rama con otra
 
 ## .gitignore
+Es un archivo que permite especificar todos aquellos archivos y directorios que no son necesarios segur, agregar, commitear ni pushear.
+.pyc
 
 ## Tutorial interactivo
 
