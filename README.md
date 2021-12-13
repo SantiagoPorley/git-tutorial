@@ -39,6 +39,7 @@ Permite desplazarse entre ramas git checkout nombre-de-la-rama asi como crear nu
 Publica los commits locales en un repositorio publico
 
 ## git pull
+Actualiza el repositorio actual con los commits realizados en el main
 
 ## git merge
 
