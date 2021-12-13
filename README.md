@@ -24,8 +24,13 @@ agrega los cambios realizadoes een archivos/directorios del proyecto para formar
 Crea un hito o punto de control con todos los cambios agregados desde el ultimo commit, permite agregar un mensaje descriptivo
 
 ### good commits messages
+*capitalizados
+*En ingles
+*En infinitivo
+*En presente simple
 
 ## git log
+Muestra el historial de commits
 
 ## git branch
 
