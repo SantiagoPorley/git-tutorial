@@ -9,10 +9,10 @@ Github es un servicio web que aloja codigo y trabaja con git
 cd : (change directory) pegas la direccion de donde quieras que se pare
 
 ## git init
-
 para empezar a trabajar en un nuevo proyecto , para iniciar un repositorio y que git siga los cambios de la carpeta
 
 ## git clone
+Clona un repositorio remoto de manera local
 
 ## git status
 
