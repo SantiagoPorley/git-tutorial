@@ -30,6 +30,7 @@ Describe el estado del repositorio en comparacion del local
 ## git push
 
 ## git pull
+Actualiza el repositorio actual con los commits realizados en el main
 
 ## git merge
 
